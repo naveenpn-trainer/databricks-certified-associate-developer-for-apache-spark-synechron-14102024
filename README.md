@@ -1,1 +1,1 @@
-# databricks-certified-associate-developer-for-apache-spark-synechron-14102024
+# Databricks Certified Associate Developer for Apache Spark Training
