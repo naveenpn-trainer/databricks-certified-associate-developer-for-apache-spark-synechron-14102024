@@ -1,0 +1,1 @@
+# databricks-certified-associate-developer-for-apache-spark-synechron-14102024
