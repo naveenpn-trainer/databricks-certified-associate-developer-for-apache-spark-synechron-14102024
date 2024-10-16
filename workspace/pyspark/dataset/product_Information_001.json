@@ -37,7 +37,7 @@
                 "capacity": "60 Wh",
                 "life": "Up to 8 hours"
             },
-            "features": ["Heart Rate Monitor", "Sleep Tracker", "Fitness Tracker"]
+            "features": ["Bluetooth 4.0","Heart Rate Monitor", "Sleep Tracker", "Fitness Tracker"]
         },
         "reviews": [{
                 "username": "user6",
@@ -121,7 +121,7 @@
                 "capacity": "70 Wh",
                 "life": "Up to 10 hours"
             },
-            "features": ["Backlit Keyboard", "Fingerprint Reader", "Wi-Fi 6"]
+            "features": ["Bluetooth 5.0","Backlit Keyboard", "Fingerprint Reader", "Wi-Fi 6"]
         },
         "reviews": [
             {
