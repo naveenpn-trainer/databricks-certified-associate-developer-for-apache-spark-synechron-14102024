@@ -6,7 +6,7 @@ class OutputSink:
 
     @staticmethod
     def write_to_file(result_df):
-        return (resultDF
+        return (result_df
                 .writeStream
                 .format("csv")
                 .option("path", "../dataset/crime_data/output/")
